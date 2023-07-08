@@ -22,5 +22,8 @@ This project is a classic 8-ball pool game<br>
 => The player loses a life if the white ball goes inside the pocket.<br>
 => If all lives are lost, the game ends in a loss.<br>
 
+<h3>Technology:</h3>
+
+Pygame and Pymunk libaries are used.
 
 
